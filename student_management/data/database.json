@@ -1,0 +1,91 @@
+{
+  "studentsList": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "class": "10A",
+      "math": 85,
+      "physics": 78,
+      "chemistry": 92,
+      "gpa": 3.7
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "class": "10B",
+      "math": 90,
+      "physics": 87,
+      "chemistry": 80,
+      "gpa": 4
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "class": "10A",
+      "math": 72,
+      "physics": 68,
+      "chemistry": 80,
+      "gpa": 2.9
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "class": "10C",
+      "math": 93,
+      "physics": 88,
+      "chemistry": 91,
+      "gpa": 3.8
+    },
+    {
+      "id": 5,
+      "name": "Alex Wilson",
+      "class": "10B",
+      "math": 80,
+      "physics": 82,
+      "chemistry": 75,
+      "gpa": 3.2
+    },
+    {
+      "id": 6,
+      "name": "Sophia Brown",
+      "class": "10A",
+      "math": 95,
+      "physics": 92,
+      "chemistry": 96,
+      "gpa": 4.2
+    },
+    {
+      "id": 7,
+      "name": "Daniel Martinez",
+      "class": "10C",
+      "math": 79,
+      "physics": 83,
+      "chemistry": 77,
+      "gpa": 3
+    },
+    {
+      "name": "Trang Van",
+      "class": "10C",
+      "math": "90",
+      "physics": "91",
+      "chemistry": "92",
+      "id": 8
+    },
+    {
+      "name": "Kien Van",
+      "class": "11A",
+      "math": "100",
+      "physics": "98",
+      "chemistry": "70",
+      "id": 9
+    },
+    {
+      "name": "Hello",
+      "class": "Holly",
+      "math": "45",
+      "physics": "77",
+      "chemistry": "88",
+      "id": 10
+    }
+  ]
+}
