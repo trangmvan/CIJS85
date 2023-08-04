@@ -70,22 +70,6 @@
       "physics": "91",
       "chemistry": "92",
       "id": 8
-    },
-    {
-      "name": "Kien Van",
-      "class": "11A",
-      "math": "100",
-      "physics": "98",
-      "chemistry": "70",
-      "id": 9
-    },
-    {
-      "name": "Hello",
-      "class": "Holly",
-      "math": "45",
-      "physics": "77",
-      "chemistry": "88",
-      "id": 10
     }
   ]
 }
